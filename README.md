@@ -18,6 +18,6 @@
 
 - Zhixue-X: Tools for iFlyTek's [zhixue.com](http://www.zhixue.com/)
 
-- Super Navi HFUT: a useful WeChat mini-program for students in Hefei University of Technology
+- [Super Navi HFUT](https://github.com/insorasky/super-navi-hfut-django): a useful WeChat mini-program for students in Hefei University of Technology
 
-- KaiSS: ShadowSocks client for [KaiOS](https://www.kaiostech.com/) users
+- [KaiSS](https://github.com/insorasky/KaiSS): ShadowSocks client for [KaiOS](https://www.kaiostech.com/) users
