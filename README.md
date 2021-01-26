@@ -6,6 +6,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@TheresaJune-orange.svg)](https://t.me/TheresaJune)
 [![Twitter](https://img.shields.io/badge/Twitter-@Sora96505735-blue.svg)](https://twitter.com/Sora96505735)
 
+> そうだった　向上心のない日々は　何も昔からじゃない
+>> Yeah, that’s right——Days without a future in mind, have no past and nowhere to go
+
 🤖 Freshman majoring in Intelligence Science and Technology.
 
 💻 With some experience in PHP, Django, Vue, HTML5, CSS, JavaScript, C# and SQL.
