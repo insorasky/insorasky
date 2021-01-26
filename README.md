@@ -16,7 +16,7 @@
 
 ## Projects
 
-- Zhixue-X: Tools for iFlyTek's [zhixue.com](http://www.zhixue.com/)
+- Zhixue-X(not open-source now): Python-based module for middle-school users of iFLYTEK's [zhixue.com](http://www.zhixue.com/) to check their marks
 
 - [Super Navi HFUT](https://github.com/insorasky/super-navi-hfut-django): a useful WeChat mini-program for students in Hefei University of Technology
 
