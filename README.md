@@ -6,10 +6,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@TheresaJune-orange.svg)](https://t.me/TheresaJune)
 [![Twitter](https://img.shields.io/badge/Twitter-@Sora96505735-blue.svg)](https://twitter.com/Sora96505735)
 
-⬇️  **Click the picture below to comment**  ⬇️
-
-[![](https://chat.getloli.com/room/@insorasky.github/svg?width=600&height=140&limit=20&theme=light&title=insorasky@github:%20~&fontSize=13)](https://chat.getloli.com/room/@insorasky.github?title=Sora的GitHub留言板)
-
 > **そうだった　向上心のない日々は　何も昔からじゃない** [*再教育-Neru/鏡音リン・鏡音レン(Kagamine Rin & Kagamine Ren)*](https://www.bilibili.com/video/BV1Hx411F75U)
 >> **Yeah, that’s right——Days without a future in mind, have no past and nowhere to go** [*Re-education(English Translation & Cover by SirHamnet)*](https://www.youtube.com/watch?v=0hkCTnMbFGo)
 
@@ -30,3 +26,8 @@
 - [Super Navi HFUT](https://github.com/insorasky/super-navi-hfut-django): a useful WeChat mini-program for students in Hefei University of Technology
 
 - [KaiSS](https://github.com/insorasky/KaiSS): ShadowSocks client for [KaiOS](https://www.kaiostech.com/) users
+
+
+⬇️    **Click the picture below to comment**  ⬇️
+
+[![](https://chat.getloli.com/room/@insorasky.github/svg?width=600&height=140&limit=20&theme=light&title=insorasky@github:%20~&fontSize=13)](https://chat.getloli.com/room/@insorasky.github?title=Sora的GitHub留言板)
