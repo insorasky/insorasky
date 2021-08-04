@@ -12,7 +12,7 @@
 
 🤖 Sophomore majoring in Intelligence Science and Technology.
 
-💻 With some experience in PHP, Django, Vue, HTML5, CSS, JavaScript, C#, Kotlin and SQL.
+💻 With some experience in PHP, Django, Vue, HTML5, CSS, JavaScript, C#, Kotlin, Java and SQL.
 
 🔥 Want to learn Rust and Swift. They are languages of the future.
 
