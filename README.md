@@ -12,9 +12,9 @@
 
 🤖 Sophomore majoring in Intelligence Science and Technology.
 
-💻 With some experience in PHP, Django, Vue, HTML5, CSS, JavaScript, C# and SQL.
+💻 With some experience in PHP, Django, Vue, HTML5, CSS, JavaScript, C#, Kotlin and SQL.
 
-🔥 Want to learn Kotlin and Swift. They are languages of the future.
+🔥 Want to learn Rust and Swift. They are languages of the future.
 
 🐟 Also a Yuri-kon(Girl's love fandom). Slightly interested in railway.
 
