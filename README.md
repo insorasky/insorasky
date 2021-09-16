@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 [![inSoraSky BLOG](https://img.shields.io/badge/inSoraSky-BLOG-green.svg)](https://www.sorasky.in/)
-[![E-mail](https://img.shields.io/badge/Email-me@sorasky.in-yellow.svg)](mailto:i@sorasky.in)
+[![E-mail](https://img.shields.io/badge/Email-i@sorasky.in-yellow.svg)](mailto:i@sorasky.in)
 [![GitHub](https://img.shields.io/badge/GitHub-insorasky-deep.svg)](https://github.com/insorasky)
 [![Telegram](https://img.shields.io/badge/Telegram-@TheresaJune-orange.svg)](https://t.me/TheresaJune)
 [![Twitter](https://img.shields.io/badge/Twitter-@Sora96505735-blue.svg)](https://twitter.com/Sora96505735)
