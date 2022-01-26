@@ -18,6 +18,8 @@
 
 🐟 Also a Yuri-kon(Girl's love fandom). Slightly interested in railway.
 
+<details><summary>More about me: </summary>
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insorasky&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=insorasky&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=insorasky&theme=github)
@@ -32,3 +34,4 @@
 
 - [KaiSS](https://github.com/insorasky/KaiSS): ShadowSocks client for [KaiOS](https://www.kaiostech.com/) users
 
+</details>
