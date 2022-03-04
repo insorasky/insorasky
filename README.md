@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-insorasky-deep.svg)](https://github.com/insorasky)
 [![Telegram](https://img.shields.io/badge/Telegram-@TheresaJune-orange.svg)](https://t.me/TheresaJune)
 [![Twitter](https://img.shields.io/badge/Twitter-@Sora96505735-blue.svg)](https://twitter.com/Sora96505735)
+[![PGP Public Key](https://img.shields.io/badge/PGP_Public_Key-02BFCAA5383268D1-blue.svg)](https://github.com/insorasky.gpg)
 ![](https://komarev.com/ghpvc/?username=insorasky&color=90EE90)
 
 > **そうだった　向上心のない日々は　何も昔からじゃない** [*再教育-Neru/鏡音リン・鏡音レン(Kagamine Rin & Kagamine Ren)*](https://www.bilibili.com/video/BV1Hx411F75U)
