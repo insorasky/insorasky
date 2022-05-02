@@ -4,8 +4,7 @@
 [![E-mail](https://img.shields.io/badge/Email-i@sorasky.in-yellow.svg)](mailto:i@sorasky.in)
 [![GitHub](https://img.shields.io/badge/GitHub-insorasky-deep.svg)](https://github.com/insorasky)
 [![Telegram](https://img.shields.io/badge/Telegram-@TheresaJune-orange.svg)](https://t.me/TheresaJune)
-[![Twitter](https://img.shields.io/badge/Twitter-@Sora96505735-blue.svg)](https://twitter.com/Sora96505735)
-[![PGP Public Key](https://img.shields.io/badge/PGP_Public_Key-02BFCAA5383268D1-blue.svg)](https://github.com/insorasky.gpg)
+[![PGP Public Key](https://img.shields.io/badge/PGP_Public_Key-02BF_CAA5_3832_68D1-blue.svg)](https://github.com/insorasky.gpg)
 [![Language](https://img.shields.io/badge/Language-ZH%2FEN%2FJA-blue.svg)](https://github.com/insorasky.gpg)
 ![](https://komarev.com/ghpvc/?username=insorasky&color=90EE90)
 
@@ -35,5 +34,7 @@
 - [HFUTGo](https://github.com/insorasky/hfutgo-server): a useful WeChat mini-program for students in Hefei University of Technology
 
 - [KaiSS](https://github.com/insorasky/KaiSS): ShadowSocks client for [KaiOS](https://www.kaiostech.com/) users
+ 
+- [Azuma(Developing)](https://github.com/insorasky/azuma-cli): Decentralized audio distributing tool
 
 </details>
