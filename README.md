@@ -4,6 +4,7 @@
 [![E-mail](https://img.shields.io/badge/Email-i@sorasky.in-yellow.svg)](mailto:i@sorasky.in)
 [![GitHub](https://img.shields.io/badge/GitHub-insorasky-deep.svg)](https://github.com/insorasky)
 [![Telegram](https://img.shields.io/badge/Telegram-@TheresaJune-orange.svg)](https://t.me/TheresaJune)
+[![Kaggle](https://img.shields.io/badge/Kaggle-insorasky-blueviolet.svg)](https://www.kaggle.com/insorasky)
 [![PGP Public Key](https://img.shields.io/badge/PGP_Public_Key-02BF_CAA5_3832_68D1-blue.svg)](https://github.com/insorasky.gpg)
 [![Language](https://img.shields.io/badge/Language-ZH%2FEN%2FJA-blue.svg)](https://github.com/insorasky.gpg)
 ![](https://komarev.com/ghpvc/?username=insorasky&color=90EE90)
