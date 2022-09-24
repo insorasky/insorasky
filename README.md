@@ -12,16 +12,13 @@
 > **そうだった　向上心のない日々は　何も昔からじゃない** [*再教育-Neru/鏡音リン・鏡音レン(Kagamine Rin & Kagamine Len)*](https://www.youtube.com/watch?v=xauTD6nRMio)
 >> **Yeah, that’s right——Days without a future in mind, have no past and nowhere to go** [*Re-education(English Translation & Cover by SirHamnet)*](https://www.youtube.com/watch?v=0hkCTnMbFGo)
 
-🤖 Sophomore majoring in Intelligence Science and Technology.
-
-💻 With some experience in PHP, Django, Vue, HTML5, CSS, JavaScript, C#, Kotlin, Java and SQL.
-
-🔥 Want to learn Rust and Swift. They are languages of the future.
+🤖 Majoring in Intelligence Science and Technology.
 
 🐟 Also a Yuri-kon(Girl's love fandom). Slightly interested in railway.
 
 <details><summary>More about me: </summary>
  
+![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,bash,bootstrap,cs,cpp,cmake,css,dart,django,docker,dotnet,electron,flask,flutter,git,github,githubactions,gitlab,go,gradle,html,idea,ai,java,js,jquery,kotlin,linux,md,mastodon,materialui,mongodb,mysql,nginx,nodejs,nuxtjs,matlab,openshift,ps,php,postgres,powershell,pr,py,pytorch,qt,raspberrypi,redis,rust,sass,sqlite,stackoverflow,scala,svg,swift,twitter,ts,vim,visualstudio,vscode,vue,wordpress)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insorasky&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=insorasky&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=insorasky&theme=github)
