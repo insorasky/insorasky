@@ -18,7 +18,7 @@
 
 <details><summary>More about me: </summary>
  
-![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,bash,bootstrap,cs,cpp,cmake,css,dart,django,docker,dotnet,electron,flask,flutter,git,github,githubactions,gitlab,go,gradle,html,idea,ai,java,js,jquery,kotlin,linux,md,mastodon,materialui,mongodb,mysql,nginx,nodejs,nuxtjs,matlab,openshift,ps,php,postgres,powershell,pr,py,pytorch,qt,raspberrypi,redis,rust,sass,sqlite,stackoverflow,scala,svg,swift,twitter,ts,vim,visualstudio,vscode,vue,wordpress)
+![My Skills](https://skillicons.dev/icons?i=cloudflare,androidstudio,aws,bash,bootstrap,cs,cpp,cmake,css,dart,django,docker,dotnet,electron,flask,flutter,git,github,githubactions,gitlab,go,gradle,html,idea,ai,java,js,jquery,kotlin,linux,md,mastodon,materialui,mongodb,mysql,nginx,nodejs,nuxtjs,matlab,openshift,ps,php,postgres,powershell,pr,py,pytorch,qt,raspberrypi,redis,rust,sass,sqlite,stackoverflow,scala,svg,swift,twitter,ts,vim,visualstudio,vscode,vue,wordpress)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insorasky&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=insorasky&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=insorasky&theme=github)
